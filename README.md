@@ -1,5 +1,5 @@
 # Apache Kafka
-[Full Cycle - Apache Kafka do Zero](https://www.youtube.com/watch?v=2uCEww7x4rs)
+[Full Cycle - Apache Kafka do Zero](https://www.youtube.com/watch?v=2uCEww7x4rs)<br>
 Aqui tento dar um resumão do que é seria o Apache kafka e qual seria sua utilidade, tem muito mais coisa que não está abordado aqui, sugirro acompanhar a [documentação](https://kafka.apache.org/) do kafka de fato para ver todo seu potencial.
 
 # O que é o Kafka:
