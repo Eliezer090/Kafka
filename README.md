@@ -1,5 +1,7 @@
-# Kafka
+# Apache Kafka
 [Full Cycle - Apache Kafka do Zero](https://www.youtube.com/watch?v=2uCEww7x4rs)
+Aqui tento dar um resumão do que é seria o Apache kafka e qual seria sua utilidade, tem muito mais coisa que não está abordado aqui, sugirro acompanhar a [documentação](https://kafka.apache.org/) do kafka de fato para ver todo seu potencial.
+
 # O que é o Kafka:
 - Sistema de logs "Streeaming de dados"(Banco de dados mas sem tabelas, só um log uma msg em baixo da outra), ele pega o log e guarda espera o consumer e após o consumer ler ele ainda guarda esta informação por um tempo especifico ou para sempre(Isto eu defino) isso da uma segurança maior.<br>
 - Latencia de 2ms<br>
